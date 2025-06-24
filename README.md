@@ -1,6 +1,4 @@
-# Composite
-
-## 1. Estudo e Material Explicativo 
+# 1. Estudo e Material Explicativo 
 
 ## Nome do padrão: 
 Composite (Árvore de Objetos)
@@ -30,11 +28,11 @@ Se o modelo de projeto for ter uma grande variedade de características dentro d
 ## Quando usar
 Quando seu modelo central de projeto permitir uma estrutura hierarquica em árvore. 
 
-## 2. Código com fonte com ou sem 
+# 2. Código com fonte com ou sem 
 Com:
 exemplo.py
 Sem:
 exemplo2.py
 
-## 3. Conclusões 
+# 3. Conclusões 
 Composite por ser útil quando o projeto pede hierarquia e padronização, utilizando-se de uma interface comum para todos os objetos e classes, mas pode ser problemático caso o projeto preveja mais variabilidade e individualidade. 
