@@ -32,8 +32,9 @@ Quando seu modelo central de projeto permitir uma estrutura hierarquica em árvo
 
 ## 2. Código com fonte com ou sem 
 Com:
-
+exemplo.py
 Sem:
+exemplo2.py
 
 ## 3. Conclusões 
 Composite por ser útil quando o projeto pede hierarquia e padronização, utilizando-se de uma interface comum para todos os objetos e classes, mas pode ser problemático caso o projeto preveja mais variabilidade e individualidade. 
