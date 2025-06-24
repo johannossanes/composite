@@ -1,6 +1,6 @@
-# composite
+# Composite
 
-1. Etudo e Material Explicativo 
+## Etudo e Material Explicativo 
 
 ## Nome do padrão: 
 Composite (Árvore de Objetos)
